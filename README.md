@@ -16,7 +16,7 @@ ik its very short track, but I am a beginner, so it was really hard for me to do
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [WHOLE PRINT]( https://hackclub.slack.com/archives/C083P4FJM46/p1792337880583359) | my print | 1 | 2.50 | 2.50$ | [Printing leigon]) |
+| [WHOLE PRINT](https://printlegion.hackclub.com/) | my print | 1 | 2.50 | 2.50$ | [Printing leigon]) |
 
 | **Parts subtotal** | — | — | — | **$2.50** | — |
 | **Tax & shipping** | — | — | — | **$100** | — |
